@@ -1,0 +1,2 @@
+# Notion Hubs
+This repository contains 2 python programs allowing you to make hubs for finance and products, able to add new orders containing customer data, status and other information as well as calculating profit and loss. These programs will allow you to easily create a python backend for an online site that will link the information directly to notion for your team to manage, perfect for small botique buisnesses.
